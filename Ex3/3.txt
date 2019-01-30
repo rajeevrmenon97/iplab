@@ -1,0 +1,1 @@
+Zero padding doesnt contribute to new intensity levels in the image. But it increases the number of frequency bins. This results in higher contrast and significant increase in signal strength.

@@ -1,0 +1,1 @@
+The multiplication by -1^(x+y) does not affect the fourier transform operation. Taking the complex conjugate results in flipping of the image over y axis. Therefore the when inverse fourier transform is performed the resulting image is upside down.
