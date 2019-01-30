@@ -1,0 +1,1 @@
+Both the convolutions A*B and B*A are found to be same. Therefore 2D convolution is commutative.

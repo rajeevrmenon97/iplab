@@ -1,0 +1,8 @@
+Addition:
+The first image is superimposed over the second image.
+Subtraction:
+Similar effect to addition is observed with superimposition. But the image is a bit darker. Subtraction can be used to detect changes between two images.
+Multiplication by constant factor:
+When constant factor is greater than one, multiplication brightens the image. Natural brightening is observed as the relative contrast is preserved.
+Division by constant factor:
+When constant factor is greater than one, division darkens the image. Similar to multiplication relative contrast is preserved.

@@ -1,0 +1,1 @@
+Both the results are not equal. Correlation is not commutative. Both results are 180 degree rotated versions of each other.
