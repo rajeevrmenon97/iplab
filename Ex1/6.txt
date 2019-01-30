@@ -1,0 +1,1 @@
+The image is more quantized. The number of grey levels is more in picture in question number 6 than question number 5. As the number of quantization levels decrease, the number of gray levels decreases resulting in contouring of the image

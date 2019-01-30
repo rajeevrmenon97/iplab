@@ -1,0 +1,1 @@
+The sharpness of the image is reduced  as the resolution is decreased. The image looks more distorted as the resolution is decreased and then enlarged to 1024x1024. The image gets more pixelated.
