@@ -1,0 +1,2 @@
+The energy of the vector is the sum of the squares of its elements. If A is the transformation matrix that is unitary, the energy in x and Ax are same.
+DCT provides the least compression ratio followed by Haars transform.
