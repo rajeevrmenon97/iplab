@@ -1,0 +1,3 @@
+Minimum filter makes the image bolder. Max filter makes the borders lighter.
+Median filter can be used for noise reduction. Mean filter is used for 
+smoothening

@@ -1,0 +1,1 @@
+These filters are used for frequency domain filtering. Filter out certain undesired frequencies.

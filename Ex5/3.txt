@@ -1,0 +1,3 @@
+The darker image is obtained by increasing the contrast of the image by 
+scaling the pixel values. The grey levels are concentrated to one side of 
+the histogram. After equalization they are normally distributed.

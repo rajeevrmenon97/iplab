@@ -1,0 +1,2 @@
+The resulting image is a less accurate representation of the image's subject. 
+It amplifies the high frequency components of a signal.

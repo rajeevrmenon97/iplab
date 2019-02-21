@@ -1,0 +1,3 @@
+This function behaves similar to log function where narrow range of pixels is
+extended to a wider range. As the value of sigma increases the range becomes 
+narrower. The images become brighter.
